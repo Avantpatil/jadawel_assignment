@@ -1,0 +1,74 @@
+.first {
+  background-color: #06283D;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-family: 'Staatliches', cursive;
+  padding-left: 50px;
+}
+
+h3 {
+  font-family: 'Sacramento', cursive;
+  font-size: 2em;
+
+  padding-left: 80px;
+  padding-top: 20px;
+}
+
+.write{
+  color: #fff;
+}
+
+.text {
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.second {
+  text-align: center;
+  background-color: #06283D;
+  padding: 7% 15%;
+}
+
+.picture {
+  width: 70%;
+}
+
+.man-picture {
+  width: 50%;
+
+  text-align: center;
+  background-color: #1363DF;
+}
+
+.row{
+  padding: 50px;
+  background-color: #06283D;
+}
+
+.card-body {
+  background-color: #205375;
+
+}
+
+.third {
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #06283D;
+}
+
+.card-text {
+  color: #fff;
+}
+
+.card-title {
+  color: #fff;
+}
+
+footer {
+  text-align: center;
+  padding:10px;
+  background-color: #205375;
+
+}
